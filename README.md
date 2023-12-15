@@ -7,7 +7,10 @@ Header 3
 #### 4 pcs.
 Test text
 
-** BOLD **
+**BOLD**
+
 __underline__
 
 [LINK](http://ya.ru)
+
+// Comment
