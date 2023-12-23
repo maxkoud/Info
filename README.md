@@ -1,11 +1,11 @@
-# Test Header
+# Header 1
 Bla-bla
-## 1st string
+## Header 2
 Header 2
-### Text
+### Header 3
 Header 3
-#### 4 pcs.
-Test text
+#### Header 4
+Header 4
 
 **BOLD**
 
@@ -13,4 +13,7 @@ __underline__
 
 [LINK](http://ya.ru)
 
-'''Comment'''
+```Comment```
+
+#Comment
+//Comment
