@@ -9,7 +9,9 @@ Header 4
 
 **BOLD**
 
-__underline__
+_underline_
+
+~~strike~~
 
 [LINK](http://ya.ru)
 
