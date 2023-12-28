@@ -15,9 +15,7 @@ _underline_
 
 [LINK](http://ya.ru)
 
-```
-Comment
-
-#Comment  
-//Comment
+``` python
+for i in x:
+  print(i)
 ```
