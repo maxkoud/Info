@@ -22,14 +22,14 @@ _Repo with a list of links for the Faucet_
 - https://faucet.polygon.technology/
 - https://www.alchemy.com/faucets/polygon-mumbai
 
-##Arbitrum Sepolia Faucet: 
+## Arbitrum Sepolia Faucet: 
 - https://www.alchemy.com/faucets/arbitrum-sepolia
 - https://faucet.quicknode.com/arbitrum/sepolia
 
-##Scroll Sepolia Faucet:
+## Scroll Sepolia Faucet:
 - https://scroll.faucetme.pro/
 
-##Linea Goerli Faucet:
+## Linea Goerli Faucet:
 - https://linea.faucetme.pro/
 
 ## Other
