@@ -4,6 +4,6 @@
 https://github.com/maxkoud/Info/blob/main/faucets.md
 
 # Top projects
-- zkSync
+~- zkSync~
 - Linea
 - Scroll
