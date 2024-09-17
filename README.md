@@ -7,3 +7,7 @@ https://github.com/maxkoud/Info/blob/main/faucets.md
 ~- zkSync~
 - Linea
 - Scroll
+
+# Testnets
+Sonic
+B3
