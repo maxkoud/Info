@@ -9,5 +9,5 @@ https://github.com/maxkoud/Info/blob/main/faucets.md
 - Scroll
 
 # Testnets
-Sonic
+Sonic  
 B3
