@@ -1,13 +1,12 @@
 # List of crypto faucets
-[faucets.md]
-
 https://github.com/maxkoud/Info/blob/main/faucets.md
 
 # Top projects
-~- zkSync~
 - Linea
 - Scroll
+- Base
 
 # Testnets
-Sonic  
-B3
+- Sonic    
+- B3  
+- XION
