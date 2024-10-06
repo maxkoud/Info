@@ -10,3 +10,5 @@ https://github.com/maxkoud/Info/blob/main/faucets.md
 - Sonic    
 - B3  
 - XION
+- SuperFi
+- Reddio
