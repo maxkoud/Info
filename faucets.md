@@ -1,17 +1,11 @@
 # Crypto Faucets
 _Repo with a list of links for the Faucet_
 
-## Goerli L1 Faucets
-- https://goerlifaucet.com/
-- https://goerli-faucet.mudit.blog/
-- https://faucet.paradigm.xyz/
-- https://goerli-faucet.pk910.de/
-- https://goerli-faucet.com/
-
 ## Ethereum Sepolia Faucet:
 - https://www.alchemy.com/faucets/ethereum-sepolia
 - https://faucet.quicknode.com/ethereum/sepolia
 - https://infura.io/faucet/sepolia
+- https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 
 ## zkSync Era testnet Faucets
 - https://portal.zksync.io/faucet
