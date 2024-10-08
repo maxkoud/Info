@@ -27,5 +27,5 @@ _Repo with a list of links for the Faucet_
 - https://linea.faucetme.pro/
 
 ## Other
-- [Tabi Testnet v2[(https://carnival.tabichain.com/)
+- [Tabi Testnet v2](https://carnival.tabichain.com/)
 - 
