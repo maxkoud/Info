@@ -6,6 +6,7 @@ _Repo with a list of links for the Faucet_
 - https://faucet.quicknode.com/ethereum/sepolia
 - https://infura.io/faucet/sepolia
 - https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+- https://www.ethereum-ecosystem.com/faucets/ethereum-sepolia
 
 ## zkSync Era testnet Faucets
 - https://portal.zksync.io/faucet
@@ -26,6 +27,9 @@ _Repo with a list of links for the Faucet_
 ## Linea Goerli Faucet:
 - https://linea.faucetme.pro/
 
+## Abstract
+- https://faucet.triangleplatform.com/abstract/testnet
+- https://thirdweb.com/abstract-testnet
+
 ## Other
 - [Tabi Testnet v2](https://carnival.tabichain.com/)
-- 
