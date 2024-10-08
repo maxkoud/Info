@@ -7,25 +7,22 @@ _Repo with a list of links for the Faucet_
 - https://infura.io/faucet/sepolia
 - https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 - https://www.ethereum-ecosystem.com/faucets/ethereum-sepolia
-
-## zkSync Era testnet Faucets
-- https://portal.zksync.io/faucet
-- https://zksync-faucet.pk910.de/
+- https://testnetbridge.com/sepolia 
 
 ## Polygon Mumbai Faucet
-- https://mumbaifaucet.com/
-- https://faucet.polygon.technology/
 - https://www.alchemy.com/faucets/polygon-mumbai
+- https://mumbaifaucet.com
+- https://faucet.polygon.technology
 
 ## Arbitrum Sepolia Faucet: 
 - https://www.alchemy.com/faucets/arbitrum-sepolia
 - https://faucet.quicknode.com/arbitrum/sepolia
 
 ## Scroll Sepolia Faucet:
-- https://scroll.faucetme.pro/
+- https://scroll.faucetme.pro
 
 ## Linea Goerli Faucet:
-- https://linea.faucetme.pro/
+- https://linea.faucetme.pro
 
 ## Abstract
 - https://faucet.triangleplatform.com/abstract/testnet
