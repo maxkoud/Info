@@ -1,5 +1,5 @@
 # List of crypto faucets
-https://github.com/maxkoud/Info/blob/main/faucets.md
+[List of faucets](https://github.com/maxkoud/Info/blob/main/faucets.md)
 
 # Top projects
 - Linea
