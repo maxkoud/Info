@@ -2,12 +2,10 @@
 [List of faucets](https://github.com/maxkoud/Info/blob/main/faucets.md)
 
 # Top projects
-- Linea
-- Scroll
+- Story Protocol
 - Base
 
 # Testnets
-- Sonic    
 - B3  
 - XION
 - SuperFi
