@@ -18,6 +18,9 @@ _Repo with a list of links for the Faucet_
 - https://www.alchemy.com/faucets/arbitrum-sepolia
 - https://faucet.quicknode.com/arbitrum/sepolia
 
+## BNB Smart Chain
+- https://www.bnbchain.org/en/testnet-faucet
+
 ## Scroll Sepolia Faucet:
 - https://scroll.faucetme.pro
 
