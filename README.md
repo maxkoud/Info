@@ -4,9 +4,11 @@
 # Top projects
 - Story Protocol
 - Base
+- Polymarket
+- Magic Newton
 
 # Testnets
 - B3  
-- XION
+- ~XION~
 - SuperFi
 - Reddio
