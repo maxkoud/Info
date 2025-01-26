@@ -9,6 +9,5 @@
 
 # Testnets
 - B3  
-- ~XION~
 - SuperFi
 - Reddio
