@@ -5,6 +5,7 @@
 - Story Protocol
 - Base
 - Polymarket
+- Unichain
 - Magic Newton
 
 # Testnets
