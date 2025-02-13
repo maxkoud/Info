@@ -2,13 +2,13 @@
 [List of faucets](https://github.com/maxkoud/Info/blob/main/faucets.md)
 
 # Top projects
-- Story Protocol
-- Base
-- Polymarket
-- Unichain
-- Magic Newton
+- [x] Story Protocol
+- [ ] Base
+- [ ] Polymarket
+- [ ] Unichain
+- [ ] Magic Newton
 
 # Testnets
-- B3  
-- SuperFi
-- Reddio
+- [x] B3  
+- [ ] SuperFi
+- [ ] Reddio
