@@ -3,7 +3,7 @@
 
 # Top projects
 - [x] Story Protocol
-- [ ] Base
+- [ ] Towns
 - [ ] Polymarket
 - [ ] Unichain
 - [ ] Magic Newton
