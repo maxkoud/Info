@@ -8,9 +8,9 @@ _Repo with a list of links for the Faucet_
 - https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 - https://www.ethereum-ecosystem.com/faucets/ethereum-sepolia (ENS, PoW mining)
 
-## Buy test tokens
-- https://testnetbridge.com/sepolia
+## Buy or bridge tokens
 - https://www.gas.zip/
+- https://testnetbridge.com/sepolia
 
 ## Arbitrum Sepolia Faucet: 
 - https://www.alchemy.com/faucets/arbitrum-sepolia
