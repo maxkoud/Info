@@ -2,17 +2,15 @@
 _Repo with a list of links for the Faucet_
 
 ## Ethereum Sepolia Faucet:
-- https://www.alchemy.com/faucets/ethereum-sepolia
+- https://www.alchemy.com/faucets/ethereum-sepolia (0.001 ETH, Google+Phone)
 - https://faucet.quicknode.com/ethereum/sepolia
-- https://infura.io/faucet/sepolia
+- https://infura.io/faucet/sepolia (MetaMask)
 - https://cloud.google.com/application/web3/faucet/ethereum/sepolia
-- https://www.ethereum-ecosystem.com/faucets/ethereum-sepolia
-- https://testnetbridge.com/sepolia 
+- https://www.ethereum-ecosystem.com/faucets/ethereum-sepolia (ENS, PoW mining)
 
-## Polygon Mumbai Faucet
-- https://www.alchemy.com/faucets/polygon-mumbai
-- https://mumbaifaucet.com
-- https://faucet.polygon.technology
+## Buy test tokens
+- https://testnetbridge.com/sepolia
+- https://www.gas.zip/
 
 ## Arbitrum Sepolia Faucet: 
 - https://www.alchemy.com/faucets/arbitrum-sepolia
@@ -20,16 +18,6 @@ _Repo with a list of links for the Faucet_
 
 ## BNB Smart Chain
 - https://www.bnbchain.org/en/testnet-faucet
-
-## Scroll Sepolia Faucet:
-- https://scroll.faucetme.pro
-
-## Linea Goerli Faucet:
-- https://linea.faucetme.pro
-
-## Abstract
-- https://faucet.triangleplatform.com/abstract/testnet
-- https://thirdweb.com/abstract-testnet
 
 ## Other
 - [Tabi Testnet v2](https://carnival.tabichain.com/)
