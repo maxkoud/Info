@@ -12,3 +12,8 @@
 - [x] B3  
 - [ ] SuperFi
 - [ ] Reddio
+
+# Nodes
+- [ ] Layer Edge
+- [ ] Hyperspace
+- [ ] Multiple
