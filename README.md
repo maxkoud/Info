@@ -6,11 +6,9 @@
 - [ ] Towns
 - [ ] Polymarket
 - [ ] Unichain
-- [ ] Magic Newton
 
 # Testnets
 - [x] B3  
-- [ ] SuperFi
 - [ ] Reddio
 
 # Nodes
